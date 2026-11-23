@@ -1,0 +1,6 @@
+{
+  "name": "ModLU Browser X",
+  "description": "Privacy-focused Android web browser powered by Mozilla GeckoView and SpiderMonkey with multi-tab browsing, Enhanced Tracking Protection, private sessions, bookmarks, history, and download management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
